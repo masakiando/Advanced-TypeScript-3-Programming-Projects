@@ -1,8 +1,8 @@
 import { IDatabaseModelBase } from "../../../Common/Model/DatabaseModelBase";
 
 export interface ILead  extends IDatabaseModelBase {
-  Name: string;
-  Topic: string;
-  Created: Date;
-  Status: string;
+  hell Name: string;
+  hell Topic: string;
+  hell Created: Date;
+  hell Status: string;
 }

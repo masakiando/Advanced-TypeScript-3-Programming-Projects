@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8163f1e2-a0d7-4361-ae48-43b2700e9cf2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Chapter02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter02/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2145173948">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JavaScript-modules-diagram//Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01" value="1" />
+          <entry key="JavaScript-modules-diagram//Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter02" value="1" />
+          <entry key="ts" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="TypeScript" value="4" />
+          <entry key="UML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter01/Code/maps.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.collection.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter02/code/MarkdownParser.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="458" column="18" selection-start-line="458" selection-start-column="18" selection-end-line="458" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Chapter03/package.json" />
+      <path value="$PROJECT_DIR$/Chapter04/Client/package.json" />
+      <path value="$PROJECT_DIR$/Chapter04/Server/package.json" />
+      <path value="$PROJECT_DIR$/Chapter05/Client/package.json" />
+      <path value="$PROJECT_DIR$/Chapter05/Server/package.json" />
+      <path value="$PROJECT_DIR$/Chapter06/Client/package.json" />
+      <path value="$PROJECT_DIR$/Chapter06/Server/package.json" />
+      <path value="$PROJECT_DIR$/Chapter07/package.json" />
+      <path value="$PROJECT_DIR$/Chapter08/Services/Addresses/package.json" />
+      <path value="$PROJECT_DIR$/Chapter08/Services/Common/package.json" />
+      <path value="$PROJECT_DIR$/Chapter08/Services/Leads/package.json" />
+      <path value="$PROJECT_DIR$/Chapter08/Services/People/package.json" />
+      <path value="$PROJECT_DIR$/Chapter08/crmclient/package.json" />
+      <path value="$PROJECT_DIR$/Chapter09/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/bingmaps/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bingmaps/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Advanced-TypeScript-3-Programming-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Advanced-TypeScript-3-Programming-Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8163f1e2-a0d7-4361-ae48-43b2700e9cf2" name="Default Changelist" comment="" />
+      <created>1565448603869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565448603869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21001616" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.28219178" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter02/code/MarkdownParser.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram//Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter02/code/MarkdownParser.ts">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Chapter02/code/MarkdownParser.ts</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Chapter01</OriginalElement>
+          <nodes>
+            <node x="148.0" y="472.0">$PROJECT_DIR$/Chapter01/Code/index.html</node>
+            <node x="437.0" y="521.0">$PROJECT_DIR$/Chapter01/Code/intersection-types.ts#Grid#0;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/intersection-types.ts#Margin#166;</node>
+            <node x="443.0" y="350.0">$PROJECT_DIR$/Chapter01/Code/rest-spread.ts#Grid#9;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/rest-spread.ts#Margin#15;</node>
+            <node x="20.0" y="232.0">$PROJECT_DIR$/Chapter01/Code/type-aliases.ts#RangeValidationBase#55;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/type-aliases.ts#StringOrNumber#0;</node>
+            <node x="0.0" y="0.0">$PROJECT_DIR$/Chapter01/Code/union-types.ts#RangeValidationBase#50;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/union-types.ts#StringOrNumber#9;</node>
+            <node x="279.0" y="542.0">https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js</node>
+            <node x="0.0" y="396.0">https://code.jquery.com/jquery-3.3.1.slim.min.js</node>
+            <node x="212.0" y="350.0">https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css</node>
+            <node x="69.0" y="589.0">https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/index.html" target="https://code.jquery.com/jquery-3.3.1.slim.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/type-aliases.ts#RangeValidationBase#55;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/type-aliases.ts#StringOrNumber#0;" target="$PROJECT_DIR$/Chapter01/Code/union-types.ts#RangeValidationBase#50;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/union-types.ts#StringOrNumber#9;">
+              <point x="-5.018544682009616" y="0.0" />
+              <point x="-5.018544682009617" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/index.html" target="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/rest-spread.ts#Grid#9;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/rest-spread.ts#Margin#15;" target="$PROJECT_DIR$/Chapter01/Code/intersection-types.ts#Grid#0;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/intersection-types.ts#Margin#166;">
+              <point x="4.9821207432044865" y="-0.4224605308565188" />
+              <point x="4.9821207432044865" y="-0.4224605308565117" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/index.html" target="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/union-types.ts#RangeValidationBase#50;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/union-types.ts#StringOrNumber#9;" target="$PROJECT_DIR$/Chapter01/Code/type-aliases.ts#RangeValidationBase#55;/Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter01/Code/type-aliases.ts#StringOrNumber#0;">
+              <point x="4.981523844874697" y="-0.42944171076506166" />
+              <point x="4.9815238448746975" y="-0.42944171076504745" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter01/Code/index.html" target="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6786833855799373" x="-52.0" y="344.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/masakiando/Advanced-TypeScript-3-Programming-Projects/Chapter02">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Chapter02</OriginalElement>
+          <nodes>
+            <node x="0.0" y="71.0">$PROJECT_DIR$/Chapter02/code/MarkdownParser.js</node>
+            <node x="122.0" y="168.0">$PROJECT_DIR$/Chapter02/index.html</node>
+            <node x="202.0" y="0.0">https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js</node>
+            <node x="202.0" y="323.0">https://code.jquery.com/jquery-3.3.1.slim.min.js</node>
+            <node x="32.0" y="253.0">https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css</node>
+            <node x="351.0" y="159.0">https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/Chapter02/index.html" target="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter02/index.html" target="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter02/index.html" target="$PROJECT_DIR$/Chapter02/code/MarkdownParser.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter02/index.html" target="https://code.jquery.com/jquery-3.3.1.slim.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/Chapter02/index.html" target="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="241.0" y="176.0" />
+          <SelectedNodes>
+            <node>https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.collection.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter01/Code/maps.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="458" column="18" selection-start-line="458" selection-start-column="18" selection-end-line="458" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02/code/MarkdownParser.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
